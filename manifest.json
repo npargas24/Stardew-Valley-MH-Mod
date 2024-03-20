@@ -1,0 +1,10 @@
+﻿{
+  "Name": "StardewGuideMod",
+  "Author": "npargas",
+  "Version": "1.0.0",
+  "Description": "<One or two sentences about the mod>",
+  "UniqueID": "npargas.StardewGuideMod",
+  "EntryDll": "StardewGuideMod.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
